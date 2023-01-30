@@ -1,3 +1,38 @@
+# Easy Solution
+
+A full-service agency specializing in delivering top-quality email sending and promotional services.
+
+## Introduction
+
+Easy Solution is a platform that provides businesses with a simple and effective solution for their marketing needs. Our services include email campaigns, promotions, and much more, designed to help you increase brand awareness, generate leads, and drive sales. Our team of experts works closely with you to understand your unique requirements and deliver customized solutions that meet your specific needs.
+
+## Features
+
+Email Campaigns
+Promotions
+Customized solutions to meet specific needs
+Expert team to deliver results
+Increase brand awareness
+Generate leads
+Drive sales
+
+## Getting Started
+
+To use Easy Solution, simply sign up on our website and start creating your email campaigns and promotions. Our user-friendly interface makes it easy to create and manage your marketing campaigns, with no technical expertise required.
+
+## Support
+
+If you have any questions or need assistance, our support team is always available to help. Contact us at jigarvyasidea@gmail.com.
+
+## Contributing
+
+We welcome contributions to Easy Solution. If you have any ideas or suggestions, please open an issue on Github or submit a pull request.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Installation :- 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
